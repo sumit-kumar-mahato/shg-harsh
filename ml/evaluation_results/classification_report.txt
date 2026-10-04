@@ -1,0 +1,12 @@
+SHG Performance Prediction — Classification Report
+============================================================
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90       284
+           1       0.82      0.77      0.79       127
+           2       0.91      0.91      0.91       589
+
+    accuracy                           0.89      1000
+   macro avg       0.87      0.86      0.87      1000
+weighted avg       0.89      0.89      0.89      1000

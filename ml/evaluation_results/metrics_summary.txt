@@ -1,0 +1,9 @@
+Model: Logistic Regression
+========================================
+accuracy: 89.3%
+precision_macro: 87.37%
+recall_macro: 86.33%
+f1_macro: 86.83%
+precision_weighted: 89.24%
+recall_weighted: 89.3%
+f1_weighted: 89.26%
